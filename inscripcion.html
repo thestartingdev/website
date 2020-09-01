@@ -38,13 +38,14 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Inicio</a></li>
-          <li><a href="./info.html">Acerca de</a></li>
+          <li ><a href="./index.html">Inicio</a></li>
+          <li><a href="./acerca.html">Acerca de</a></li>
           <li class="drop-down">
-            <a href="#">Información</a>
+            <a  href="#">Información</a>
             <ul>
               <li><a href="#">Consejos Dev</a></li>
               <li><a href="#">Recursos gratis</a></li>
+              <li class="active" ><a href="./inscripcion.html">Inscripción</a></li>
               <li><a href="#">Ser Voluntario</a></li>
               <li><a href="#">Codigo de Conducta</a></li>
               <li><a href="#">Roadmap / Programa</a></li>
@@ -65,10 +66,11 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Info</h2>
+          <h2>Inscripción</h2>
           <ol>
             <li><a href="index.html">Inicio</a></li>
-            <li>Acerca de</li>
+            <li>Información</li>
+            <li><a href="./inscripcion.html">Inscripción</a></li>
           </ol>
         </div>
 
@@ -78,7 +80,99 @@
     <section class="inner-page">
       <div class="container">
         <p>
-          Example inner page template
+
+            <form class="form-group" action="calcularTif.php" method="post" id="calcularTif">
+                <p>
+                  <label for="edadActual">Nombre y Apellido</label>
+                  <input
+                    type="text"
+                    class="form-control maskAge"
+                    placeholder="Ingresa tu nombre y apellido"
+                    name="edadActual"
+                    id="edadActual"
+                    required
+                  />
+                </p>
+                <p>
+                  <label for="ahorroUSD">Edad</label>
+                  <input
+                    type="text"
+                    class="form-control maskCash"
+                    placeholder="Ingresa tu edad, por favor."
+                    name="ahorroUSD"
+                    id="ahorroUSD"
+                    required
+                  />
+                </p>
+                <p>
+                  <label for="ingresosPesos">Tu E-mail</label>
+                  <input
+                    type="text"
+                    class="form-control maskCash"
+                    placeholder="Ingresa tu E-mail por favor"
+                    name="ingresosPesos"
+                    id="ingresosPesos"
+                    required
+                  />
+                </p>
+                <p>
+                  <label for="gastosPesos">Número de telefono</label>
+                  <input
+                    type="text"
+                    class="form-control maskCash"
+                    placeholder="Te pedimos tu celu asi te unimos al grupo de Whatsapp del taller"
+                    name="gastosPesos"
+                    id="gastosPesos"
+                    required
+                  />
+                </p>
+                <p>
+                    <label for="gastosPesos">¿Tenes conocimientos de programación u otras tecnologias?</label>
+                    <input
+                      type="text"
+                      class="form-control maskCash"
+                      placeholder="Comentanos que sabes, porfa"
+                      name="gastosPesos"
+                      id="gastosPesos"
+                      required
+                    />
+                </p>
+                <p>
+                    <label for="gastosPesos">¿Qué te gustaria aprender en un taller?</label>
+                    <input
+                      type="text"
+                      class="form-control maskCash"
+                      placeholder="Aportanos ideas de que te gustaria que aprendamos en equipo :)"
+                      name="gastosPesos"
+                      id="gastosPesos"
+                      required
+                    />
+                </p>
+                <p>
+                  <label for="edadRetiro">¿Queres sumar algun comentario?</label>
+                  <input
+                    type="text"
+                    class="form-control maskAge"
+                    placeholder="Contamos de forma muy cortita porque te interesa el curso."
+                    name="edadRetiro"
+                    id="edadRetiro"
+                    required
+                  />
+                </p>
+                <center>
+                  <input
+                    type="submit"
+                    class="btn-primary btn-large"
+                    value="INSCRIBIRME"
+                   />
+                </center>
+                <div class="respuestaAjax">
+                </div>
+              </form>
+            </div>
+          </div>
+
+
         </p>
       </div>
     </section>
