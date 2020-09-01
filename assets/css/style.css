@@ -163,6 +163,17 @@ h1, h2, h3, h4, h5, h6 {
   color: #14c871;
 }
 
+.nextws{
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.nextwsDate{
+  padding-bottom: 30px;
+  color: #14c871;
+  text-align: center;
+}
+
 .nav-menu .drop-down > a:after {
   content: "\ea99";
   font-family: IcoFont;
