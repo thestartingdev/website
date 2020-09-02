@@ -50,4 +50,7 @@ if(empty($error)){
     $return = array('error' => $error);
 }
 
+header("Location: ../index.html");
+die();
+
 ?>
