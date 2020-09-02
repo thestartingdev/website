@@ -8,7 +8,11 @@ $nombreApellido = $_POST['nombreApellido'];
 $edad = $_POST['edad'];
 $dni = $_POST['dni'];
 $email = $_POST['email'];
-
+$telefono = $_POST['telefono'];
+$comoNosConociste = $_POST['comoNosConociste'];
+$conocimientoPrevio = $_POST['conocimientoPrevio'];
+$gustariaAprender = $_POST['gustariaAprender'];
+$comentario = $_POST['comentario'];
 
 // Check Database connection
 if($conn === false){
