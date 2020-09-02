@@ -31,7 +31,9 @@ $sql = "INSERT INTO alumnos (fechaCarga,
                             gustariaAprender,
                             comentario)
             VALUES ( now(),
-                    '$)";
+                    '$nombreApellido',
+                    '$edad',
+                    '$dni')";
 
 
 if(empty($error)){
