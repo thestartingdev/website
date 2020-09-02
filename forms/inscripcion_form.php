@@ -20,22 +20,18 @@ if($conn === false){
 }
 
 // Attempt insert query execution
-$sql = "INSERT INTO calculadoraTif (fechaCarga,
-                                    edadActual,
-                                    ahorroUSD,
-                                    ingresosPesos,
-                                    gastosPesos,
-                                    edadRetiro,
-                                    valorDolar,
-                                    tasaRetiro)
+$sql = "INSERT INTO alumnos (fechaCarga,
+                            nombreApellido,
+                            edad,
+                            dni,
+                            email,
+                            telefono,
+                            comoNosConociste,
+                            conocimientoPrevio,
+                            gustariaAprender,
+                            comentario)
             VALUES ( now(),
-                    '$edadActual',
-                    '$ahorroUSD',
-                    '$ingresosPesos',
-                    '$gastosPesos',
-                    '$edadRetiro',
-                    '$tipoCambioUSD',
-                    '$tasaRetiroRedondeada')";
+                    '$)";
 
 
 if(empty($error)){
