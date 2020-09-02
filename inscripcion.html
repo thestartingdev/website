@@ -77,18 +77,23 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
+
     <section class="inner-page">
       <div class="container">
         <p>
 
-            <form class="form-group" action="calcularTif.php" method="post" id="calcularTif">
+        Tus datos son utlizados solo para inscribirte y comnunicarnos con vos acerca de los talleres, nunca te vamos a enviar spam, publicidad o intentar cobrarte algo,
+        no te preocupes y si tenes dudas, podes revisar nuestra <a href="#">politica de privacidad.</a>
+        <hr>
+
+            <form class="form-group" action="./forms/inscripcion_form.php" method="post" id="inscribir_participante">
                 <p>
                   <label for="edadActual">Nombre y Apellido</label>
                   <input
                     type="text"
-                    class="form-control maskAge"
+                    class="form-control"
                     placeholder="Ingresa tu nombre y apellido"
-                    name="edadActual"
+                    name="nombreApellido"
                     id="edadActual"
                     required
                   />
@@ -105,11 +110,22 @@
                   />
                 </p>
                 <p>
+                  <label for="ahorroUSD">DNI</label>
+                  <input
+                    type="text"
+                    class="form-control maskCash"
+                    placeholder="Ingresa tu número de documento, por favor."
+                    name="ahorroUSD"
+                    id="ahorroUSD"
+                    required
+                  />
+                </p>
+                <p>
                   <label for="ingresosPesos">Tu E-mail</label>
                   <input
                     type="text"
                     class="form-control maskCash"
-                    placeholder="Ingresa tu E-mail por favor"
+                    placeholder="Ingresa tu E-mail por favor(no somos spamners!)."
                     name="ingresosPesos"
                     id="ingresosPesos"
                     required
@@ -126,6 +142,17 @@
                     required
                   />
                 </p>
+                <p>
+                    <label for="ahorroUSD">¿Como nos conociste?</label>
+                    <input
+                      type="text"
+                      class="form-control"
+                      placeholder="Contanos si fue por, linkedin, twitter, facebook, un amig@, etc"
+                      name="ahorroUSD"
+                      id="ahorroUSD"
+                      required
+                    />
+                  </p>
                 <p>
                     <label for="gastosPesos">¿Tenes conocimientos de programación u otras tecnologias?</label>
                     <input
@@ -153,7 +180,7 @@
                   <input
                     type="text"
                     class="form-control maskAge"
-                    placeholder="Contamos de forma muy cortita porque te interesa el curso."
+                    placeholder="Contamos de forma muy cortita porque te interesa participar en los talleres."
                     name="edadRetiro"
                     id="edadRetiro"
                     required
