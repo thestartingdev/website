@@ -4,16 +4,8 @@
 include("conn.php"); // Connect Database
 
 // Retrieving values from form
-$nombre = limpiarCadena($_POST['nombre']);
-$apellido = limpiarCadena($_POST['apellido']);
-$email = $_POST['email'];
-$edadActual = limpiarCadena($_POST['edadActual']);
-$ahorroUSD = formatoNumeroInsert($_POST['ahorroUSD']);
-$ingresosPesos = formatoNumeroInsert($_POST['ingresosPesos']);
-$gastosPesos = formatoNumeroInsert($_POST['gastosPesos']);
-$edadRetiro = limpiarCadena($_POST['edadRetiro']);
-//Cambio Dolar
-$tipoCambioUSD = $valorAhora;
+$nombreApellido = $_POST['nombreApellido'];
+$edad = $_POST['edad'];
 
 // Check Database connection
 if($conn === false){
