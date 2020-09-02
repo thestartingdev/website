@@ -33,7 +33,13 @@ $sql = "INSERT INTO alumnos (fechaCarga,
             VALUES ( now(),
                     '$nombreApellido',
                     '$edad',
-                    '$dni')";
+                    '$dni',
+                    '$email',
+                    '$telefono',
+                    '$comoNosConociste',
+                    '$conocimientoPrevio',
+                    '$gustariaAprender',
+                    '$comentario')";
 
 
 if(empty($error)){
