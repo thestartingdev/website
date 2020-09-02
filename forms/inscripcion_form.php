@@ -6,6 +6,7 @@ include("conn.php"); // Connect Database
 // Retrieving values from form
 $nombreApellido = $_POST['nombreApellido'];
 $edad = $_POST['edad'];
+$dni = $_POST['dni'];
 
 // Check Database connection
 if($conn === false){
