@@ -5,13 +5,9 @@ include("conn.php"); // Connect Database
 
 // Retrieving values from form
 $nombreApellido = $_POST['nombreApellido'];
-$edad = $_POST['edad'];
-$dni = $_POST['dni'];
 $email = $_POST['email'];
 $telefono = $_POST['telefono'];
-$comoNosConociste = $_POST['comoNosConociste'];
-$aportar = $_POST['aportar'];
-$comentario = $_POST['comentario'];
+$idea = $_POST['idea'];
 
 // Check Database connection
 if($conn === false){
@@ -19,24 +15,16 @@ if($conn === false){
 }
 
 // Attempt insert query execution
-$sql = "INSERT INTO voluntarios (fechaCarga,
+$sql = "INSERT INTO ideasAportadas (fechaCarga,
                             nombreApellido,
-                            edad,
-                            dni,
                             email,
                             telefono,
-                            comoNosConociste,
-                            aportar,
-                            comentario)
+                            idea)
             VALUES ( now(),
                     '$nombreApellido',
-                    '$edad',
-                    '$dni',
                     '$email',
                     '$telefono',
-                    '$comoNosConociste',
-                    '$aportar',
-                    '$comentario')";
+                    '$idea')";
 
 
 if(empty($error)){
