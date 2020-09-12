@@ -17,7 +17,7 @@
       </div>
       <br>
       <br>
-      <h6><a href="./terminosCondiciones.html">Terminos y condiciones</a> | <a href="./politicaPrivacidad.html"> Politica de privacidad</a></h6>
+      <h6><a href="./terminosCondiciones.php">Terminos y condiciones</a> | <a href="./politicaPrivacidad.php"> Politica de privacidad</a></h6>
     </div>
   </div>
 </footer>
