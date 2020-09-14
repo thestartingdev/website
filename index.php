@@ -158,7 +158,7 @@
 
             <div class="col-lg-3 col-6 text-center">
               <span data-toggle="counter-up">0</span>
-              <p>Proyectos</p>
+              <p>Ejercicios</p>
             </div>
           </div>
         </div>

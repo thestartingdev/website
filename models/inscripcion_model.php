@@ -53,7 +53,7 @@ if(empty($error)){
     $return = array('error' => $error);
 }
 
-header("Location: ../views/exito.php");
+echo "<script type='text/javascript'> document.location = '../views/exito.php'; </script>";
 die();
 
 ?>
