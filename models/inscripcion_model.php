@@ -9,6 +9,7 @@ $edad = $_POST['edad'];
 $dni = $_POST['dni'];
 $email = $_POST['email'];
 $telefono = $_POST['telefono'];
+$tallerElegido = $_POST['tallerElegido'];
 $comoNosConociste = $_POST['comoNosConociste'];
 $conocimientoPrevio = $_POST['conocimientoPrevio'];
 $gustariaAprender = $_POST['gustariaAprender'];
@@ -29,7 +30,8 @@ $sql = "INSERT INTO alumnos (fechaCarga,
                             comoNosConociste,
                             conocimientoPrevio,
                             gustariaAprender,
-                            comentario)
+                            comentario,
+                            tallerElegido)
             VALUES ( now(),
                     '$nombreApellido',
                     '$edad',
@@ -39,7 +41,8 @@ $sql = "INSERT INTO alumnos (fechaCarga,
                     '$comoNosConociste',
                     '$conocimientoPrevio',
                     '$gustariaAprender',
-                    '$comentario')";
+                    '$comentario',
+                    '$tallerElegido')";
 
 
 if(empty($error)){
