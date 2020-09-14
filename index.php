@@ -81,7 +81,7 @@
               Es gratis, por siempre.
             </h2>
             <div class="d-flex">
-              <a href="./inscripcion.html" class="btn-get-started scrollto">¡Inscribite!</a>
+              <a href="./views/inscripcion.php" class="btn-get-started scrollto">¡Inscribite!</a>
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img">
