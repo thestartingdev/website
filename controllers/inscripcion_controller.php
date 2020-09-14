@@ -55,33 +55,34 @@
                   />
                 </p>
                 <p>
-                    <label for="tallerElegido">¿Cual taller te interesa?</label>
-                    <br>
-                    <select name="tallerElegido" id="tallerElegido" type="text" class="form-control">
-                        <option value="1">Python para NO programadores</option>
-                        <option value="1">Javascript para NO programadores</option>
-                    </select>
+                    <label for="tallerElegido">¿Qué taller te interesa?</label>
+                    <input
+                      type="text"
+                      class="form-control"
+                      placeholder="Contanos si te interesa Python para no programadores, Javascript para no programadores, etc."
+                      name="tallerElegido"
+                      id="tallerElegido"
+                    />
                 </p>
                 <p>
                     <label for="comoNosConociste">¿Como nos conociste?</label>
-                    <br>
-                    <select name="comoNosConociste" id="comoNosConociste" type="text" class="form-control">
-                        <option value="1">Linkedin</option>
-                        <option value="2">Twitter</option>
-                        <option value="3">Instagram</option>
-                        <option value="4">Youtube</option>
-                        <option value="5">Otro</option>
-                    </select>
+                    <input
+                      type="text"
+                      class="form-control"
+                      placeholder="Contanos si fue por, linkedin, twitter, facebook, un amig@, etc"
+                      name="comoNosConociste"
+                      id="comoNosConociste"
+                    />
                 </p>
                 <p>
                     <label for="conocimientoPrevio">¿Tenes conocimientos de programación u otras tecnologias?</label>
-                    <br>
-                    <select name="conocimientoPrevio" id="conocimientoPrevio" type="text" class="form-control">
-                        <option value="1">Ninguno</option>
-                        <option value="2">Básico</option>
-                        <option value="3">Intermedio</option>
-                        <option value="4">Avanzado</option>
-                    </select>
+                    <input
+                      type="text"
+                      class="form-control"
+                      placeholder="Comentanos que sabes, porfa"
+                      name="conocimientoPrevio"
+                      id="conocimientoPrevio"
+                    />
                 </p>
                 <p>
                     <label for="gustariaAprender">¿Qué te gustaria aprender en un taller?</label>

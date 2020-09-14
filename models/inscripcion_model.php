@@ -38,7 +38,7 @@ $sql = "INSERT INTO alumnos (fechaCarga,
                     '$dni',
                     '$email',
                     '$telefono',
-                    '$tallerElegido'
+                    '$tallerElegido',
                     '$comoNosConociste',
                     '$conocimientoPrevio',
                     '$gustariaAprender',
