@@ -55,16 +55,6 @@
                   />
                 </p>
                 <p>
-                    <label for="tallerElegido">¿Qué taller te interesa?</label>
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="Contanos si te interesa Python para no programadores, Javascript para no programadores, etc."
-                      name="tallerElegido"
-                      id="tallerElegido"
-                    />
-                </p>
-                <p>
                     <label for="comoNosConociste">¿Como nos conociste?</label>
                     <input
                       type="text"
