@@ -58,29 +58,29 @@
                     <label for="tallerElegido">¿Cual taller te interesa?</label>
                     <br>
                     <select name="tallerElegido" id="tallerElegido" type="text" class="form-control">
-                        <option value="Python 1">Python para NO programadores</option>
-                        <option value="Javascript 1">Javascript para NO programadores</option>
+                        <option value="1">Python para NO programadores</option>
+                        <option value="1">Javascript para NO programadores</option>
                     </select>
                 </p>
                 <p>
                     <label for="comoNosConociste">¿Como nos conociste?</label>
                     <br>
                     <select name="comoNosConociste" id="comoNosConociste" type="text" class="form-control">
-                        <option value="Linkedin">Linkedin</option>
-                        <option value="Twitter">Twitter</option>
-                        <option value="Instagram">Instagram</option>
-                        <option value="Youtube">Youtube</option>
-                        <option value="Otro">Otro</option>
+                        <option value="1">Linkedin</option>
+                        <option value="2">Twitter</option>
+                        <option value="3">Instagram</option>
+                        <option value="4">Youtube</option>
+                        <option value="5">Otro</option>
                     </select>
                 </p>
                 <p>
                     <label for="conocimientoPrevio">¿Tenes conocimientos de programación u otras tecnologias?</label>
                     <br>
                     <select name="conocimientoPrevio" id="conocimientoPrevio" type="text" class="form-control">
-                        <option value="Ninguno">Ninguno</option>
-                        <option value="Basico">Básico</option>
-                        <option value="Intermedio">Intermedio</option>
-                        <option value="Avanzado">Avanzado</option>
+                        <option value="1">Ninguno</option>
+                        <option value="2">Básico</option>
+                        <option value="3">Intermedio</option>
+                        <option value="4">Avanzado</option>
                     </select>
                 </p>
                 <p>
