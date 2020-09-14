@@ -57,7 +57,7 @@
         <p>
 
         Tus datos son utlizados solo para comnunicarnos con vos, nunca te vamos a enviar spam, publicidad o intentar cobrarte algo,
-        no te preocupes y si tenes dudas, podes revisar nuestra <a href="#">politica de privacidad.</a>
+        no te preocupes y si tenes dudas, podes revisar nuestra <a href="./politicaPrivacidad.php">politica de privacidad.</a>
         <hr>
           <?php
             include('../controllers/voluntarios_controller.php');

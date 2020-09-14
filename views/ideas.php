@@ -56,7 +56,7 @@
       <div class="container">
         <p>
         Dejanos tu idea y nosotros te contactamos cuando la vayamos a convertir en un taller para que participes en la creación :), no vamos a hacer nada
-        raro con tus datos, si tenes dudas, te invitamos a leer nuestra <a href="#">politica de privacidad.</a>
+        raro con tus datos, si tenes dudas, te invitamos a leer nuestra <a href="./politicaPrivacidad.php">politica de privacidad.</a>
         <hr>
 
         <?php
