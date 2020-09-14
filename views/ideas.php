@@ -59,61 +59,9 @@
         raro con tus datos, si tenes dudas, te invitamos a leer nuestra <a href="#">politica de privacidad.</a>
         <hr>
 
-            <form class="form-group" action="./forms/ideas_form.php" method="post" id="aportar_idea">
-                <p>
-                  <label for="nombreApellido">Nombre y Apellido</label>
-                  <input
-                    type="text"
-                    class="form-control"
-                    placeholder="Ingresa tu nombre y apellido"
-                    name="nombreApellido"
-                    id="nombreApellido"
-                    required
-                  />
-                </p>
-                <p>
-                  <label for="email">Tu E-mail</label>
-                  <input
-                    type="text"
-                    class="form-control"
-                    placeholder="Ingresa tu E-mail por favor(no somos spamners!)."
-                    name="email"
-                    id="email"
-                    required
-                  />
-                </p>
-                <p>
-                  <label for="telefono">Número de telefono</label>
-                  <input
-                    type="text"
-                    class="form-control maskCash"
-                    placeholder="Te pedimos tu celu asi te unimos al grupo de Whatsapp del taller"
-                    name="telefono"
-                    id="telefono"
-                    required
-                  />
-                </p>
-                <p>
-                    <label for="idea">¿Cual es tu idea?</label>
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="Contanos tu idea para armar un taller :)"
-                      name="idea"
-                      id="idea"
-                    />
-                  </p>
-                <center>
-                  <input
-                    type="submit"
-                    class="btn-primary btn-large"
-                    value="SUBIR IDEA"
-                   />
-                </center>
-              </form>
-            </div>
-          </div>
-
+        <?php
+          include('../controllers/ideas_controller.php');
+        ?>
 
         </p>
       </div>
