@@ -57,7 +57,7 @@
                 <p>
                     <label for="tallerElegido">¿Cual taller te interesa?</label>
                     <br>
-                    <select name="tallerElegido" id="tallerElegido">
+                    <select name="tallerElegido" id="tallerElegido" type="text" class="form-control">
                         <option value="Python 1">Python para NO programadores</option>
                         <option value="Javascript 1">Javascript para NO programadores</option>
                     </select>
@@ -65,7 +65,7 @@
                 <p>
                     <label for="comoNosConociste">¿Como nos conociste?</label>
                     <br>
-                    <select name="comoNosConociste" id="comoNosConociste">
+                    <select name="comoNosConociste" id="comoNosConociste" type="text" class="form-control">
                         <option value="Linkedin">Linkedin</option>
                         <option value="Twitter">Twitter</option>
                         <option value="Instagram">Instagram</option>
@@ -76,7 +76,7 @@
                 <p>
                     <label for="conocimientoPrevio">¿Tenes conocimientos de programación u otras tecnologias?</label>
                     <br>
-                    <select name="conocimientoPrevio" id="conocimientoPrevio">
+                    <select name="conocimientoPrevio" id="conocimientoPrevio" type="text" class="form-control">
                         <option value="Ninguno">Ninguno</option>
                         <option value="Basico">Básico</option>
                         <option value="Intermedio">Intermedio</option>
