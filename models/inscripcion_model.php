@@ -50,7 +50,7 @@ if(empty($error)){
     $return = array('error' => $error);
 }
 
-header("Location: ../exito.html");
+header("Location: ../views/exito.php");
 die();
 
 ?>
