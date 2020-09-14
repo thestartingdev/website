@@ -11,7 +11,7 @@
               <ul>
                 <li><a href="./consejos.php">Consejos Dev</a></li>
                 <li><a href="./recursos.php">Recursos gratis</a></li>
-                <li ><a href="/inscripcion.php">Inscripción</a></li>
+                <li ><a href="./inscripcion.php">Inscripción</a></li>
                 <li><a href="./voluntario.php">Ser Voluntario</a></li>
                 <li><a href="./ideas.php">Aportar Ideas</a></li>
                 <li><a href="./conducta.php">Codigo de Conducta</a></li>

@@ -55,24 +55,33 @@
                   />
                 </p>
                 <p>
+                    <label for="tallerElegido">¿Cual taller te interesa?</label>
+                    <br>
+                    <select name="tallerElegido" id="tallerElegido">
+                        <option value="Python 1">Python para NO programadores</option>
+                        <option value="Javascript 1">Javascript para NO programadores</option>
+                    </select>
+                </p>
+                <p>
                     <label for="comoNosConociste">¿Como nos conociste?</label>
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="Contanos si fue por, linkedin, twitter, facebook, un amig@, etc"
-                      name="comoNosConociste"
-                      id="comoNosConociste"
-                    />
-                  </p>
+                    <br>
+                    <select name="comoNosConociste" id="comoNosConociste">
+                        <option value="Linkedin">Linkedin</option>
+                        <option value="Twitter">Twitter</option>
+                        <option value="Instagram">Instagram</option>
+                        <option value="Youtube">Youtube</option>
+                        <option value="Otro">Otro</option>
+                    </select>
+                </p>
                 <p>
                     <label for="conocimientoPrevio">¿Tenes conocimientos de programación u otras tecnologias?</label>
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="Comentanos que sabes, porfa"
-                      name="conocimientoPrevio"
-                      id="conocimientoPrevio"
-                    />
+                    <br>
+                    <select name="conocimientoPrevio" id="conocimientoPrevio">
+                        <option value="Ninguno">Ninguno</option>
+                        <option value="Basico">Básico</option>
+                        <option value="Intermedio">Intermedio</option>
+                        <option value="Avanzado">Avanzado</option>
+                    </select>
                 </p>
                 <p>
                     <label for="gustariaAprender">¿Qué te gustaria aprender en un taller?</label>
