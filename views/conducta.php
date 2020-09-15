@@ -4,9 +4,9 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-    <title>The Starting Dev | Código de Conducta</title>
-    <meta content="" name="descriptison" />
-    <meta content="" name="keywords" />
+  <title>The Starting Dev | Código de Conducta</title>
+  <meta content="The Starting Dev es una plataforma para aprender a programar en equipo de forma libre y gratuita." name="description">
+  <meta content="Acerca de, The Starting Dev, development, software, programador, programacion, python, javascript, JS, Py, C, Ruby, PHP, HTML, CSS, SQL, MySQL, Hack, MongoDB, NodeJS, MERN, MEAN, React, ReactJS, Angular, AngularJS, VueJS, React Native, programadoras, girls who code, code, dojo, code dojo, coding, tech, technology, community, youtube, twitter, linkedin, instagram, github, comunidad, tecnologia, chicas en tecnologia, genero, perspectiva, inclusión" name="keywords">
 
     <!-- Favicons -->
   <link href="../assets/img/favicon.png" rel="icon">
