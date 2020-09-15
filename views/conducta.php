@@ -40,9 +40,9 @@
           <div class="d-flex justify-content-between align-items-center">
             <h2>Código de Conducta</h2>
             <ol>
-              <li><a href="index.html">Inicio</a></li>
+              <li><a href="../index.php">Inicio</a></li>
               <li>Info</li>
-              <li>Código de Conducta</li>
+              <li><a href="./conducta.php"></a></li>
             </ol>
           </div>
         </div>
