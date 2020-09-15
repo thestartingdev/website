@@ -6,8 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>The Starting Dev | Contacto</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
+  <meta content="The Starting Dev es una plataforma para aprender a programar en equipo de forma libre y gratuita." name="description">
+  <meta content="Acerca de, The Starting Dev, development, software, programador, programacion, python, javascript, JS, Py, C, Ruby, PHP, HTML, CSS, SQL, MySQL, Hack, MongoDB, NodeJS, MERN, MEAN, React, ReactJS, Angular, AngularJS, VueJS, React Native, programadoras, girls who code, code, dojo, code dojo, coding, tech, technology, community, youtube, twitter, linkedin, instagram, github, comunidad, tecnologia, chicas en tecnologia, genero, perspectiva, inclusión" name="keywords">
 
   <!-- Favicons -->
   <link href="../assets/img/favicon.png" rel="icon">
@@ -43,8 +43,8 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Contacto</h2>
           <ol>
-            <li><a href="index.html">Inicio</a></li>
-            <li>Contacto</li>
+            <li><a href="../index.php">Inicio</a></li>
+            <li><a href="./contacto.php">Contacto</a></li>
           </ol>
         </div>
 
