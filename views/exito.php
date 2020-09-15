@@ -7,8 +7,8 @@
   <meta http-equiv="refresh" content="5;URL=../index.php" />
 
   <title>The Starting Dev</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
+  <meta content="The Starting Dev es una plataforma para aprender a programar en equipo de forma libre y gratuita." name="description">
+  <meta content="Acerca de, The Starting Dev, development, software, programador, programacion, python, javascript, JS, Py, C, Ruby, PHP, HTML, CSS, SQL, MySQL, Hack, MongoDB, NodeJS, MERN, MEAN, React, ReactJS, Angular, AngularJS, VueJS, React Native, programadoras, girls who code, code, dojo, code dojo, coding, tech, technology, community, youtube, twitter, linkedin, instagram, github, comunidad, tecnologia, chicas en tecnologia, genero, perspectiva, inclusión" name="keywords">
 
   <!-- Favicons -->
   <link href="../assets/img/favicon.png" rel="icon">
