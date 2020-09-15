@@ -42,7 +42,7 @@
             <ol>
               <li><a href="../index.php">Inicio</a></li>
               <li>Info</li>
-              <li><a href="./conducta.php"></a></li>
+              <li><a href="./conducta.php">Codigo de Conducta</a></li>
             </ol>
           </div>
         </div>
