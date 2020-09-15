@@ -43,7 +43,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Info</h2>
           <ol>
-            <li><a href="index.html">Inicio</a></li>
+            <li><a href="../index.php">Inicio</a></li>
             <li>Acerca de</li>
           </ol>
         </div>

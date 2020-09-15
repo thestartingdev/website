@@ -43,9 +43,9 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Ser Voluntario</h2>
           <ol>
-            <li><a href="index.html">Inicio</a></li>
+            <li><a href="../index.php">Inicio</a></li>
             <li>Información</li>
-            <li><a href="./inscripcion.html">Ser Voluntario</a></li>
+            <li><a href="./voluntario.php">Ser Voluntario</a></li>
           </ol>
         </div>
 
