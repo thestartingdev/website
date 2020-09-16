@@ -14,6 +14,7 @@
         <a href="https://www.linkedin.com/company/the-starting-dev" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href="https://github.com/thestartingdev" target="_blank" class="github"><i class="bx bxl-github"></i></a>
         <a href="https://www.youtube.com/channel/UC09pnxn0b-dVNS0rWotnWQQ" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+        <a href="https://discord.gg/C57Kp9W" target="_blank" class="discord"><i class="bx bxl-discord"></i></a>
       </div>
       <br>
       <br>
