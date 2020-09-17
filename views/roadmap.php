@@ -59,7 +59,7 @@
         </p>
         <hr>
         <p>
-          <h1 style="color: #16df7e;">Python para NO programadores</h1>
+          <h1 class="headerGreen">Python para NO programadores</h1>
           <br>
           El ciclo de "Python para NO programadores" es el primer ciclo de talleres que creamos en The Starting Dev, y el mismo consta de 11 talleres orientados a personas sin conocimientos previos y el objetivo es aprender, los conceptos básicos de ciencias de la computación, programación, como armar un CV, buscar trabajo como desarrollador y qué hacer y no hacer en una entrevista laboral.
         </p>

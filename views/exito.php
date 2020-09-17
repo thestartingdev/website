@@ -48,9 +48,9 @@
       <div class="container">
         <p>
           <center>
-            <h1 style="color: #16df7e;">¡TU SOLICITUD HA SIDO ENVIADA EXITOSAMENTE!</h1>
+            <h1 class="headerGreen">¡TU SOLICITUD HA SIDO ENVIADA EXITOSAMENTE!</h1>
             <br>
-            <h3 style="color: #16df7e;">SERAS REDIRIGIDO EN BREVE AL INICIO</h3>
+            <h3 class="headerGreen">SERAS REDIRIGIDO EN BREVE AL INICIO</h3>
             <br>
             <br>
             <img src="../assets/img/checkForm.png" alt="Update your browser">
