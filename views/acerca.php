@@ -53,13 +53,13 @@
     <section class="inner-page">
       <div class="container">
         <p>
-          <h1 style="color: #16df7e;">¿Qué es The Starting Dev?</h1>
+          <h1 class="headerGreen"">¿Qué es The Starting Dev?</h1>
           <br>
           The Starting Dev es una plataforma para aprender en equipo diferentes tecnologias mediante ciclos de talleres enfocados en una tecnología en especifico, nuestro principal objetivo es facilitar las herramientas básicas a todos aquell@s que quieran comenzar su carrera profesional en tecnologia.
           Es por eso que nuestro principal foco son los NO programadores, a quienes les ofrecemos formar parte de un equipo e investigar y aprender todos juntos, generando un ambiente amigable e ideal para adquirir conocimientos.
           <br>
           <br>
-          <h1 style="color: #16df7e;">¿Que hacemos?</h1>
+          <h1 class="headerGreen"">¿Que hacemos?</h1>
           <br>
           Lo que hacemos son talleres, o en inglés, "Workshops" es decir, no damos cursos con clases tradicionales, nos gusta ser disruptivos y nuestra idea es armar un ciclo de varios talleres de 2 horas de duración cada uno (que administramos con la técnica pomodoro)
           Donde un coordinador plantea un tema, da una introducción de los conceptos y pasamos al desafio del taller que lo resolvemos en equipo utilizando recursos conocidos(google, wikipedia, stack-overflow, el mismo coordinador), al final del taller
@@ -72,7 +72,7 @@
           <p>
             ¡Lo resolvemos en el proximo taller!
           </p>
-          <h1 style="color: #16df7e;">¿Quienes somos?</h1>
+          <h1 class="headerGreen"">¿Quienes somos?</h1>
           <br>
           Somos programadores, recruiters, docentes, estudiantes de diversos rubros con ganas de aprender y enseñar armando talleres, diviertiendose en el proceso.
           Es la diversidad de conocimientos y especialidades lo que nos permite otorgarle a cada taller un visión más global e inclusiva con el fin de acercar tecnologias a la mayor cantidad de gente posible.
@@ -80,14 +80,14 @@
           Hoy somos dos, mañana más.
           <br>
           <br>
-          <h1 style="color: #16df7e;">¿Cuanto cuesta?</h1>
+          <h1 class="headerGreen"">¿Cuanto cuesta?</h1>
           <br>
             <h4>
               <b>NADA, TODOS LOS TALLERES SON GRATIS, POR SIEMPRE.</b>
             </h4>
           <br>
           <br>
-          <h1 style="color: #16df7e;">¿Cuales son los requisitos para participar en los talleres?</h1>
+          <h1 class="headerGreen"">¿Cuales son los requisitos para participar en los talleres?</h1>
           <br>
             Fundamentalmente, tener ganas de aprender e investigar porque no realizamos ningún tipo de exclusión ni requerimos conocimientos previos de ninguna indole, tampoco tenemos proceso de admisión, etc.
            <p>
@@ -97,12 +97,12 @@
             Y para inscribirte, solo hace click <a href="./inscripcion.html">acá</a> y completa con tus datos.
           </p>
           <br>
-          <h1 style="color: #16df7e;">Me pidieron datos, ¿Qué hacen con ellos?</h1>
+          <h1 class="headerGreen"">Me pidieron datos, ¿Qué hacen con ellos?</h1>
           <br>
           Absolutamente nada, los usamos para contactarte y pasarte info de los talleres y si alguno te interesa y con tu permiso, te sumamos al grupo de WhatsApp o Telegram, pero no te preocupes, tus datos no los vendemos, ni los compartimos a terceros ni los usamos para absolutamente nada que no sean los talleres y jamas los vamos a usar para conseguir beneficios monetarios.
           <br>
           <br>
-          <h1 style="color: #16df7e;">¿Cuales son los requisitos para ser voluntario?</h1>
+          <h1 class="headerGreen"">¿Cuales son los requisitos para ser voluntario?</h1>
           <br>
           <ul>
             <li>Ser mayor de 18 años.</li>
@@ -110,13 +110,13 @@
           Y para inscribirte, solo hace click <a href="./voluntario.html">acá</a> y nosotros te vamos a contactar y charlar con vos para ver como podemos colaborar juntos, desde muchas gracias por querer ser voluntario, para nosotros es muy importante.
           <br>
           <br>
-          <h1 style="color: #16df7e;">¿Se puede aportar ideas y cómo?</h1>
+          <h1 class="headerGreen"">¿Se puede aportar ideas y cómo?</h1>
           <br>
           Algo que también aceptamos, queremos y necesitamos son ideas, sobre que tecnologias podemos tratar o armar talleres, asi como sugerencias o comentarios a los talleres que asististe.
           <p>
             Para dejarnos tus ideas, comentarios y sugerencias, hace click <a href="./ideas.html">acá</a> y nosotros nos vamos a poner en contacto, ¡muchisimas gracias!
           </p>
-          <h1 style="color: #16df7e;">¿Reciben donaciones?</h1>
+          <h1 class="headerGreen"">¿Reciben donaciones?</h1>
           <br>
           En este momento no recibimos ningún tipo de donaciones, pero si podemos referirte una lista de sitios de organizaciones sin fines de lucro que se dedican a enseñar a programar(como nosotros) que actualmente reciben donaciones.
         </p>
