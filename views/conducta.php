@@ -74,8 +74,7 @@
             a crear experiencias seguras y positivas para todos.
           </p>
           <br />
-          <h2
-            style="color: #16df7e"
+          <h2 class="headerGreen"
             id="ciudadana-de-cdigoculturatecnologa-abierta"
           >
             Ciudadanía de Código/Cultura/Tecnología abierta
