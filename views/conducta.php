@@ -101,7 +101,7 @@
             saberlo.
           </p>
           <br />
-          <h2 style="color: #16df7e" id="comportamiento-esperado">
+          <h2 class="headerGreen" id="comportamiento-esperado">
             Comportamiento esperado
           </h2>
           <br />
