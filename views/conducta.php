@@ -128,7 +128,7 @@
             </li>
           </ul>
           <br />
-          <h2 style="color: #16df7e" id="comportamiento-inaceptable">
+          <h2 class="headerGreen" id="comportamiento-inaceptable">
             Comportamiento inaceptable
           </h2>
           <br />
@@ -154,7 +154,7 @@
           </p>
           <br />
           <h2
-            style="color: #16df7e"
+            class="headerGreen"
             id="consecuencias-del-comportamiento-inaceptable"
           >
             Consecuencias del comportamiento inaceptable
@@ -177,7 +177,7 @@
           </p>
           <br />
           <h2
-            style="color: #16df7e"
+            class="headerGreen"
             id="si-es-testigo-o-vctima-de-comportamiento-inaceptable"
           >
             Si es testigo o víctima de comportamiento inaceptable
@@ -202,7 +202,7 @@
             experiencias.
           </p>
           <br />
-          <h2 style="color: #16df7e" id="desagravios">Desagravios</h2>
+          <h2 class="headerGreen" id="desagravios">Desagravios</h2>
           <br />
           <p>
             Si Ud. siente que ha sido falsa o injustamente acusado/a de violar
@@ -212,7 +212,7 @@
             existentes.
           </p>
           <br />
-          <h2 style="color: #16df7e" id="alcance">Alcance</h2>
+          <h2 class="headerGreen" id="alcance">Alcance</h2>
           <br />
           <p>
             Se espera que todos los participantes de la comunidad
@@ -223,7 +223,7 @@
             de la comunidad.
           </p>
           <br />
-          <h2 style="color: #16df7e" id="licencia-y-atribucin">
+          <h2 class="headerGreen" id="licencia-y-atribucin">
             Licencia y atribución
           </h2>
           <br />
