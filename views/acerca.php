@@ -94,7 +94,7 @@
             <b>¡Eso si!</b> si sos menor, tene en cuenta de que tenes que estar acompañado de un adulto responsable(madre, padre, tutor) y porfa, no nos mientas en la edad cuando te inscribas, en todo caso podes hablar con nosotros primero.
           </p>
           <p>
-            Y para inscribirte, solo hace click <a href="./inscripcion.html">acá</a> y completa con tus datos.
+            Y para inscribirte, solo hace click <a href="./views/inscripcion.php">acá</a> y completa con tus datos.
           </p>
           <br>
           <h1 class="headerGreen">Me pidieron datos, ¿Qué hacen con ellos?</h1>
@@ -107,14 +107,14 @@
           <ul>
             <li>Ser mayor de 18 años.</li>
           </ul>
-          Y para inscribirte, solo hace click <a href="./voluntario.html">acá</a> y nosotros te vamos a contactar y charlar con vos para ver como podemos colaborar juntos, desde muchas gracias por querer ser voluntario, para nosotros es muy importante.
+          Y para inscribirte, solo hace click <a href="./views/voluntario.php">acá</a> y nosotros te vamos a contactar y charlar con vos para ver como podemos colaborar juntos, desde muchas gracias por querer ser voluntario, para nosotros es muy importante.
           <br>
           <br>
           <h1 class="headerGreen">¿Se puede aportar ideas y cómo?</h1>
           <br>
           Algo que también aceptamos, queremos y necesitamos son ideas, sobre que tecnologias podemos tratar o armar talleres, asi como sugerencias o comentarios a los talleres que asististe.
           <p>
-            Para dejarnos tus ideas, comentarios y sugerencias, hace click <a href="./ideas.html">acá</a> y nosotros nos vamos a poner en contacto, ¡muchisimas gracias!
+            Para dejarnos tus ideas, comentarios y sugerencias, hace click <a href="./views/ideas.php">acá</a> y nosotros nos vamos a poner en contacto, ¡muchisimas gracias!
           </p>
           <h1 class="headerGreen">¿Reciben donaciones?</h1>
           <br>
