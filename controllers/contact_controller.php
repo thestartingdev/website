@@ -24,7 +24,7 @@
                 <p>
                   <label for="telefono">Número de telefono</label>
                   <input
-                    type="tel"
+                    type="number"
                     class="form-control maskCash"
                     placeholder="Asi te respondemos más rapido"
                     name="telefono"
