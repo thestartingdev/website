@@ -13,7 +13,8 @@
                 <p>
                   <label for="edad">Edad</label>
                   <input
-                    type="text"
+                    type="number"
+                    max="99"
                     class="form-control"
                     placeholder="Ingresa tu edad, por favor."
                     name="edad"
@@ -24,7 +25,7 @@
                 <p>
                   <label for="dni">DNI</label>
                   <input
-                    type="text"
+                    type="number"
                     class="form-control"
                     placeholder="Ingresa tu número de documento, por favor."
                     name="dni"
@@ -35,7 +36,7 @@
                 <p>
                   <label for="email">Tu E-mail</label>
                   <input
-                    type="text"
+                    type="email"
                     class="form-control"
                     placeholder="Ingresa tu E-mail por favor(no somos spamners!)."
                     name="email"
@@ -46,7 +47,7 @@
                 <p>
                   <label for="telefono">Número de telefono</label>
                   <input
-                    type="text"
+                    type="number"
                     class="form-control maskCash"
                     placeholder="Te pedimos tu celu asi te unimos al grupo de Whatsapp del taller"
                     name="telefono"

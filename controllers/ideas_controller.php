@@ -13,7 +13,7 @@
                 <p>
                   <label for="email">Tu E-mail</label>
                   <input
-                    type="text"
+                    type="email"
                     class="form-control"
                     placeholder="Ingresa tu E-mail por favor(no somos spamners!)."
                     name="email"
@@ -24,7 +24,7 @@
                 <p>
                   <label for="telefono">Número de telefono</label>
                   <input
-                    type="text"
+                    type="tel"
                     class="form-control maskCash"
                     placeholder="Te pedimos tu celu asi te unimos al grupo de Whatsapp del taller"
                     name="telefono"

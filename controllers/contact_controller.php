@@ -13,7 +13,7 @@
                 <p>
                   <label for="email">Tu E-mail</label>
                   <input
-                    type="text"
+                    type="email"
                     class="form-control"
                     placeholder="Por favor, dejanos tu mail"
                     name="email"
@@ -24,7 +24,7 @@
                 <p>
                   <label for="telefono">Número de telefono</label>
                   <input
-                    type="text"
+                    type="tel"
                     class="form-control maskCash"
                     placeholder="Asi te respondemos más rapido"
                     name="telefono"
