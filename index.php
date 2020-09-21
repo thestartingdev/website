@@ -69,7 +69,7 @@
     <section id="hero" class="d-flex align-items-center">
       <div class="container">
         <div class="row">
-          <h1 class="nextws">Proximo Taller <span class="nextwsDate">18 de Septiembre 19:00 hs(arg)</span></h1>
+          <h1 class="nextws">Proximo Taller <span class="nextwsDate">25 de Septiembre 19:00 hs(arg)</span></h1>
           <div
             class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center"
           >
@@ -142,22 +142,22 @@
         <div class="container">
           <div class="row counters">
             <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">1</span>
+              <span data-toggle="counter-up">2</span>
               <p>Workshops</p>
             </div>
 
             <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">53</span>
+              <span data-toggle="counter-up">107</span>
               <p>Participantes</p>
             </div>
 
             <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">2</span>
+              <span data-toggle="counter-up">4</span>
               <p>Horas practicando</p>
             </div>
 
             <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">1</span>
+              <span data-toggle="counter-up">4</span>
               <p>Ejercicios</p>
             </div>
           </div>
