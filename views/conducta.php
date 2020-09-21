@@ -241,73 +241,24 @@
     </main>
     <!-- End #main -->
 
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
-      <div class="footer-top">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-lg-6">
-              <h3>Seguinos en...</h3>
-            </div>
-          </div>
+  <?php
+    include("./modules/footer.php")
+  ?>
 
-          <div class="social-links">
-            <a
-              href="https://twitter.com/thestartingdev"
-              target="_blank"
-              class="twitter"
-              ><i class="bx bxl-twitter"></i
-            ></a>
-            <a
-              href="https://www.instagram.com/thestartingdev/"
-              target="_blank"
-              class="instagram"
-              ><i class="bx bxl-instagram"></i
-            ></a>
-            <a
-              href="https://www.linkedin.com/company/the-starting-dev"
-              target="_blank"
-              class="linkedin"
-              ><i class="bx bxl-linkedin"></i
-            ></a>
-            <a
-              href="https://github.com/thestartingdev"
-              target="_blank"
-              class="github"
-              ><i class="bx bxl-github"></i
-            ></a>
-            <a
-              href="https://www.youtube.com/channel/UC09pnxn0b-dVNS0rWotnWQQ"
-              target="_blank"
-              class="youtube"
-              ><i class="bx bxl-youtube"></i
-            ></a>
-          </div>
-          <br />
-          <br />
-          <h6>
-            <a href="./terminosCondiciones.html">Terminos y condiciones</a> |
-            <a href="./politicaPrivacidad.html"> Politica de privacidad</a>
-          </h6>
-        </div>
-      </div>
-    </footer>
-    <!-- End Footer -->
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-    <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+  <!-- Vendor JS Files -->
+  <script src="../assets/vendor/jquery/jquery.min.js"></script>
+  <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="../assets/vendor/php-email-form/validate.js"></script>
+  <script src="../assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="../assets/vendor/counterup/counterup.min.js"></script>
+  <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../assets/vendor/venobox/venobox.min.js"></script>
+  <script src="../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 
-    <!-- Vendor JS Files -->
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-    <script src="assets/vendor/counterup/counterup.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/venobox/venobox.min.js"></script>
-    <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-
-    <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
+  <!-- Template Main JS File -->
+  <script src="../assets/js/main.js"></script>
   </body>
 </html>
