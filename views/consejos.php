@@ -56,6 +56,7 @@
       <div class="container">
         <p>
           <h1 class="headerGreen">Consejos para programar y aprender sanamente.</h1>
+          A continuación, te dejamos una lista de consejos para programar y aprender nuevas tecnologias de forma divertida para evitar el "burn-out" o como solemos decir "quemarnos la cabeza"
         </p>
       </div>
     </section>
