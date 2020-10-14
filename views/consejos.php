@@ -55,7 +55,7 @@
     <section class="inner-page">
       <div class="container">
         <p>
-          Example inner page template
+          <h1 class="headerGreen">Consejos para programar y aprender sanamente.</h1>
         </p>
       </div>
     </section>
