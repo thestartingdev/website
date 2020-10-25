@@ -58,6 +58,11 @@
           <h1 class="headerGreen">Consejos para programar y aprender sanamente.</h1>
           A continuación, te dejamos una lista de consejos para programar y aprender nuevas tecnologias de forma divertida para evitar el "burn-out" o como solemos decir "quemarnos la cabeza"
         </p>
+        <p>
+          <h4>Agarrar el codigo y desarmarlo en partes mas pequeñas de codigo, en lo posible en pequeñas funciones.</h4>
+          <br/>
+          <h4>Si para cuando tenes que dejar la oficina o estás trabajando desde casa y llego el horario de finalizar el día laboral, no pudiste resolver el problema, apaga la compu! y deja la oficina o no uses la compu hasta el dia siguiente, tampoco sigas pensando en el problema.</h4>
+        </p>
       </div>
     </section>
 
