@@ -62,6 +62,8 @@
           <h4>Agarrar el codigo y desarmarlo en partes mas pequeñas de codigo, en lo posible en pequeñas funciones.</h4>
           <br/>
           <h4>Si para cuando tenes que dejar la oficina o estás trabajando desde casa y llego el horario de finalizar el día laboral, no pudiste resolver el problema, apaga la compu! y deja la oficina o no uses la compu hasta el dia siguiente, tampoco sigas pensando en el problema.</h4>
+          <br/>
+          <h4>No escribas más codigo del solicitado, tampoco te anticipes al futuro con funcionalidades que crees «podrian servir para…», la idea es crear algo que funcione lo más pronto posible, solamente codea las partes necesarias para resolver el problema actual, esto se llama principio YAGNI(«You Aren’t Gonna Need It» o en español «No vas a necesitarlo»)</h4>
         </p>
       </div>
     </section>
