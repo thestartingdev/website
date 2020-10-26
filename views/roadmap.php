@@ -145,9 +145,9 @@
                     </div>
                     <div class="card-body">
                       <p class="card-text">
-                          Trabjando con hojas de cálculo en Google Spreadsheets
+                          Beautiful Soup
                           <br>
-                          Trabajando con archivos PDF y documentos de Word
+                          Requests
                       </p>
                     </div>
                   </div>
@@ -161,7 +161,7 @@
                       <p class="card-text">
                           Trabajando con archivos CSV y objetos JSON
                           <br>
-                          Manteniendo el tiempo, automatizando tareas y ejecutar programas
+                          Pandas
                       </p>
                     </div>
                   </div>
