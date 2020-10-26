@@ -180,9 +180,7 @@
                     </div>
                     <div class="card-body">
                       <p class="card-text">
-                          Enviar mails y mensajes de Whatsapp automatizados
-                          <br>
-                          Manipular/editar imagenes con Python
+                          Proyecto Final - Parte 1
                       </p>
                     </div>
                   </div>
@@ -194,9 +192,7 @@
                     </div>
                     <div class="card-body">
                       <p class="card-text">
-                          Controlar teclado y mouse con GUI automatizada
-                          <br>
-                          Instalando módulos de terceros
+                          Proyecto Final - Parte 2
                       </p>
                     </div>
                   </div>
