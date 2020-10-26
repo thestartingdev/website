@@ -133,7 +133,7 @@
                       <p class="card-text">
                           Web Scraping
                           <br>
-                          Trabajando con hojas de cálculo(Excel o LibreCalc)
+                          Diccionarios
                       </p>
                     </div>
                   </div>
