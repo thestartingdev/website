@@ -61,6 +61,8 @@
                   <select name="tallerElegido" id="tallerElegido" type="text" class="form-control" required>
                     <option value="Python para NO programadores">Python para NO programadores</option>
                     <option value="Javascript para NO programadores">Javascript para NO programadores</option>
+                    <option value="Javascript para NO programadores">Full Stack PHP desde 0</option>
+                    <option value="Javascript para NO programadores">Java desde 0</option>
                   </select>
                 </p>
                 <p>
