@@ -15,7 +15,7 @@
                 <li><a href="./voluntario.php">Ser Voluntario</a></li>
                 <li><a href="./ideas.php">Aportar Ideas</a></li>
                 <li><a href="./conducta.php">Codigo de Conducta</a></li>
-                <li><a href="./roadmap.php">Temario</a></li>
+                <li><a href="./roadmap.php">Temarios</a></li>
               </ul>
             </li>
             <li><a href="./contacto.php">Contacto</a></li>
