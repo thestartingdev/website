@@ -252,6 +252,27 @@
           </div>
         </center>
         <hr>
+        <center>
+          <p>
+          <h1 class="headerGreen">Javascript para NO programadores.</h1>
+          <br>
+        </p>
+        </center>
+        <hr>
+        <center>
+          <p>
+          <h1 class="headerGreen">Full Stack PHP desde 0</h1>
+          <br>
+        </p>
+        </center>
+        <hr>
+        <center>
+          <p>
+          <h1 class="headerGreen">Java desde 0.</h1>
+          <br>
+        </p>
+        </center>
+        <hr>
       </div>
     </section>
 
